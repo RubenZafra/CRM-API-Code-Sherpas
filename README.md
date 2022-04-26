@@ -13,4 +13,6 @@ One for each instruction of the assessment being "exit" the one you need to type
 "update" -> Update all the attributes (at once) of an existing customer   
 "deleteCustomer" -> Delete an existing customer   
 
-I provided with 3 random customers I created to test all the commands so you don't need to create some customers. 
+I provided with 3 random customers I created to test all the commands so you don't need to create some customers.  
+
+(Had some issues with the Dockerfile, so I don't expect it to work properly)
